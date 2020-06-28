@@ -1,2 +1,2 @@
-# python-savant
+# hello-world
 Training to program in Python
